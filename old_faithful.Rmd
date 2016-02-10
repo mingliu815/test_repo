@@ -7,6 +7,7 @@ data set is a well-known data set that depicts the relationship
 of the waiting time between eruptions and the duration of the 
 eruption for the Old Faithful geyser in Yellowstone National 
 Park, Wyoming, USA [[webcam]](http://yellowstone.net/webcams/). 
+female
 
 `faithful` is a data set with 272 observations on 2 variables.
 
